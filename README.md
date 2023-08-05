@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gilberto</h1>
+<p><em>I'm currently studying at  <a href="http://www.unb.br">Universidade Franciscana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">.</em></p>
 
 <h3>Languages ​​and tools I've used:</h3>
 <p>
@@ -33,8 +34,6 @@
 	
 
 </p>
-
-<p><em>I'm currently studying at  <a href="http://www.unb.br">Universidade Franciscana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 <h3>📫 How to reach me:</h3>
 <p>
