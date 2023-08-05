@@ -34,7 +34,7 @@
 
 </p>
 
-<p><em>Studying at <a href="http://www.unb.br">Universidade Franciscana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+<p><em>I'm currently studying at  <a href="http://www.unb.br">Universidade Franciscana</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 <h3>📫 How to reach me:</h3>
 <p>
