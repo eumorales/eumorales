@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Gilberto</h1>
-<p><em>Currently studying at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>.</br>:round_pushpin: Santa Maria, Brazil</em></p>
+<p><em>I'm currently studying at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>.</br>:round_pushpin: Santa Maria, Brazil</em></p>
 
 <h3>Languages ​​and tools I've used:</h3>
 <p>
