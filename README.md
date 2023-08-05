@@ -28,7 +28,6 @@
 	<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 	<img alt="NetBeansIDE" src="https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white" />
 	<img alt="Notepad" src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black" />
-	<img alt="Github" src="https://img.shields.io/badge/eumorales-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 	<a href="https://replit.com/@eumorales" target="_blank"><img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
 	<img alt="VSCODE" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 	
