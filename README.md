@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Gilberto</h1>
 
-<h3>Languages ​​and tools I've used:</h3>
+<h3>- Languages ​​and tools I've used:</h3>
 <p>
 	<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
 	<img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
@@ -21,7 +21,7 @@
 
 </p>
 
-<h3>IDEs/Editors:</h3>
+<h3>- IDEs/Editors:</h3>
 <p>
 	<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
 	<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
@@ -35,7 +35,7 @@
 
 
 
-<h3>📫 How to reach me:</h3>
+<h3>- How to reach me:</h3>
 <p>
 	<img alt="Discord" src="https://img.shields.io/badge/gmorales@outlook.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a> 
 	<a href="https://github.com/eumorales" target="_blank"><img alt="Github" src="https://img.shields.io/badge/eumorales-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
