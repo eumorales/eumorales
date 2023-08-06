@@ -36,8 +36,7 @@
 
 </p>
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumorales&hide=TeX&layout=compact)	
+<img alt="Top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumorales&hide=TeX&theme=transparent&text_color=ffffff&hide_border=true&title_color=ffffff&layout=compact" />
 
 # <h3>📫 How to reach me:</h3>
 <p>
