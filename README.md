@@ -36,8 +36,7 @@
 
 # 
 
-#### Github stats
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eumorales&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387&locale=en&layout=compact&theme=github_dark"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eumorales&show_icons=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=dd6387&locale=en&layout=compact&theme=github_dark"/>
   </div>
 
 <h3>📫 How to reach me:</h3>
