@@ -1,8 +1,10 @@
 
-<h1 align="center">Hey 👋, I'm <a href="https://gilbertomorales.com/" target="_blank">Gilberto</a></h1>
+## <p align="center">Hey 👋, I'm <a href="https://gilbertomorales.com/" target="_blank">Gilberto</a></p>
+
 <p><em>I'm currently studying at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>.</br>:round_pushpin: Santa Maria, Brazil</em></p>
 
-<h3>Languages ​​and tools I've used:</h3>
+# <h3>Languages ​​and tools I've used:</h3>
+
 <p>
 	<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
 	<img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
@@ -20,7 +22,6 @@
 	
 
 </p>
-
 <h3>IDEs/Editors:</h3>
 <p>
 	<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
@@ -32,6 +33,14 @@
 	
 
 </p>
+
+# 
+
+#### Github stats
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eumorales&show_icons=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=dd6387&locale=en&layout=compact&theme=github_dark"/>
+  </div>
+
+---
 
 <h3>📫 How to reach me:</h3>
 <p>
