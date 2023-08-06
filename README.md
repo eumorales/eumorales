@@ -35,7 +35,6 @@
 
 <h3>📫 How to reach me:</h3>
 <p>
-	<img alt="Discord" src="https://img.shields.io/badge/gmorales@outlook.com.br-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /></a> 
 	<a href="https://github.com/eumorales" target="_blank"><img alt="Github" src="https://img.shields.io/badge/eumorales-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 	<img alt="Discord" src="https://img.shields.io/badge/moralesdisc-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
 </p>
