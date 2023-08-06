@@ -1,5 +1,8 @@
 
-### <p align="center"> <strong>Hey 👋, I'm <a href="https://gilbertomorales.com/" target="_blank">Gilberto</a></strong> </p>
+# 𝙃𝙚𝙡𝙡𝙤 👋 𝙄'𝙢 𝙂𝙞𝙡𝙗𝙚𝙧𝙩𝙤
+[![](https://img.shields.io/website?color=ffffff&style=flat-square&up_message=gilbertomorales.com&url=https%3A%2F%2Fgilbertomorales.com)](https://gilbertomorales.com)
+[![](https://img.shields.io/badge/-@eumorales-%23181717?style=flat-square&logo=github)](https://github.com/eumorales)
+
 
 <p><em>I'm currently studying at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>.</br>:round_pushpin: Santa Maria, Brazil</em></p>
 
@@ -18,8 +21,6 @@
 	<img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=flat-square&logo=php&logoColor=white" />
 	<img alt="PowerShell" src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat-square&logo=powershell&logoColor=white" />
 	<img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=python&logoColor=white" />
-	
-	
 
 </p>
 <h3>IDEs/Editors:</h3>
@@ -34,6 +35,7 @@
 
 </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eumorales&hide=TeX&layout=compact)	
 
 # <h3>📫 How to reach me:</h3>
 <p>
