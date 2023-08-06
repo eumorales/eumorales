@@ -1,5 +1,5 @@
 
-## <p align="center">Hey 👋, I'm <a href="https://gilbertomorales.com/" target="_blank">Gilberto</a></p>
+### <p align="center"> <strong>Hey 👋, I'm <a href="https://gilbertomorales.com/" target="_blank">Gilberto</a></strong> </p>
 
 <p><em>I'm currently studying at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>.</br>:round_pushpin: Santa Maria, Brazil</em></p>
 
