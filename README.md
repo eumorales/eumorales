@@ -4,7 +4,7 @@
 [![](https://img.shields.io/badge/-@eumorales-%23181717?style=flat-square&logo=github)](https://github.com/eumorales)
 
 
-<p><em>I'm currently studying at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>.</br>:round_pushpin: Santa Maria, Brazil</em></p>
+<p><em>I'm currently studying Computer Science at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>.</br>:round_pushpin: Santa Maria, Brazil</em></p>
 
 # <h3>Languages ​​and tools I've used:</h3>
 
