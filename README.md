@@ -36,7 +36,11 @@
 
 </p>
 
-<img alt="Top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumorales&hide=TeX&theme=transparent&text_color=ffffff&hide_border=true&title_color=ffffff&layout=compact" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=120 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumorales&hide=TeX&theme=transparent&text_color=ffffff&hide_border=true&title_color=ffffff&layout=compact" />
+</a>
+
+</a>
 
 # <h3>📫 How to reach me:</h3>
 <p>
