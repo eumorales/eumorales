@@ -41,7 +41,7 @@
 # <h3>📫 How to reach me:</h3>
 <p>
 	<a href="https://github.com/eumorales" target="_blank"><img alt="Github" src="https://img.shields.io/badge/eumorales-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-	<a href="https://www.instagram.com/gilbertomrls/" target="_blank"><img alt="Github" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
+	<a href="https://www.instagram.com/gilbertomrls/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/gilbertomrls-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
 	<img alt="Discord" src="https://img.shields.io/badge/moralesdisc-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a> 
  
 </p>
