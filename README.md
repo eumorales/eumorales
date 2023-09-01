@@ -3,7 +3,7 @@
 [![](https://img.shields.io/website?color=ffffff&style=flat-square&up_message=gilbertomorales.com&url=https%3A%2F%2Fgilbertomorales.com)](https://gilbertomorales.com)
 [![](https://img.shields.io/badge/-@eumorales-%23181717?style=flat-square&logo=github)](https://github.com/eumorales)
 
-
+<p><em></em>A fullstack developer who enjoys website development and occasionally explores other coding languages to stay updated.</em></p>
 <p><em>I'm currently studying Computer Science at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>.</br>:round_pushpin: Santa Maria, Brazil</em></p>
 
 # <h3>Languages ​​and tools I've used:</h3>
