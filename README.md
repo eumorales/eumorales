@@ -26,7 +26,6 @@
 
 <img alt="Top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumorales&hide=TeX&theme=transparent&text_color=ffffff&hide_border=false&title_color=ffffff&layout=compact" />
 
-# <h3>IDEs:</h3>
 <p>
 	<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
 	<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
