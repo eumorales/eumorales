@@ -5,7 +5,7 @@
 
 <p><em>I'm currently studying Computer Science at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>.</br>:round_pushpin: Santa Maria, Brazil</em></p>
 
-# <h3>Languages ​​and tools I've used:</h3>
+# <h3>Languages, tools and IDEs:</h3>
 
 <p>
 	<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
