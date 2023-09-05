@@ -22,11 +22,7 @@
 	<img alt="Python" src="https://img.shields.io/badge/-Python-43853d?style=flat-square&logo=python&logoColor=white" />
 	<img alt="SQLite" src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white" />
 
-</p>
-
-<img alt="Top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumorales&hide=TeX&theme=transparent&text_color=ffffff&hide_border=false&title_color=ffffff&layout=compact" />
-
-<p>
+ <p>
 	<img alt="Eclipse" src="https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white" />
 	<img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" />
 	<a href="https://replit.com/@eumorales" target="_blank"><img alt="Replit" src="https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white" />
@@ -34,6 +30,12 @@
 	
 
 </p>
+
+</p>
+
+<img alt="Top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumorales&hide=TeX&theme=transparent&text_color=ffffff&hide_border=false&title_color=ffffff&layout=compact" />
+
+
 
 # <h3>📫 How to reach me:</h3>
 <p>
