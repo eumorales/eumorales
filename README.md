@@ -3,10 +3,13 @@
 [![](https://img.shields.io/website?color=ffffff&style=flat-square&up_message=gilbertomorales.com&url=https%3A%2F%2Fgilbertomorales.com)](https://gilbertomorales.com)
 [![](https://img.shields.io/badge/-@eumorales-%23181717?style=flat-square&logo=github)](https://github.com/eumorales)
 
+<img src="https://github.com/eumorales/eumorales/blob/main/assets/bc.svg" alt="Gilberto" width="65%" height="auto">
+
+
 <p><em>I'm currently studying Computer Science at  <a href="https://www.ufn.edu.br/site/">Universidade Franciscana</a>.</br>:round_pushpin: Santa Maria, Brazil</em></p>
 
 # <h3>Languages, tools and IDEs:</h3>
-
+<img src="https://github.com/eumorales/eumorales/blob/main/assets/lng.svg" alt="Gilberto" width="70%" height="auto">
 <p>
 	<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
 	<img alt="CSS" src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" />
@@ -36,6 +39,7 @@
 
 
 # <h3>📫 How to reach me:</h3>
+<img src="https://github.com/eumorales/eumorales/blob/main/assets/msg.svg" alt="Gilberto" width="50%" height="auto">
 <p>
 	<a href="https://github.com/eumorales" target="_blank"><img alt="Github" src="https://img.shields.io/badge/eumorales-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
 	<a href="https://www.instagram.com/gilbertomrls/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/gilbertomrls-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
