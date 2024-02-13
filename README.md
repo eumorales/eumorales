@@ -36,10 +36,6 @@
 
 </p>
 
-<img alt="Top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eumorales&hide=TeX&theme=transparent&text_color=ffffff&hide_border=false&title_color=ffffff&layout=compact" />
-
-
-
 # <h3>📫 How to reach me:</h3>
 <img src="https://github.com/eumorales/eumorales/blob/main/assets/msg.svg" alt="Gilberto" width="55%" height="auto">
 <p>
