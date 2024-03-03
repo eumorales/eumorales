@@ -45,4 +45,6 @@
 
 </p>
 
+<img src="https://github.com/eumorales/eumorales/blob/main/assets/cobrinha.svg" alt="Gilberto" height="auto">
+
 
