@@ -44,7 +44,3 @@
 	<a href="https://discordapp.com/users/326856520799223808" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/moralesdisc-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"</a> 
 
 </p>
-
-<img src="https://github.com/eumorales/eumorales/blob/main/assets/cobrinha.svg" alt="Gilberto" height="auto">
-
-
