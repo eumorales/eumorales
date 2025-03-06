@@ -1,4 +1,4 @@
-# 𝙃𝙚𝙡𝙡𝙤 👋 𝙄'𝙢 𝙂𝙞𝙡𝙗𝙚𝙧𝙩𝙤 🏳️‍🌈
+# 𝙃𝙚𝙡𝙡𝙤 👋 𝙄'𝙢 𝙂𝙞𝙡𝙗𝙚𝙧𝙩𝙤 
 [![](https://img.shields.io/website?color=ffffff&style=flat-square&up_message=gilbertomorales.com&url=https%3A%2F%2Fgilbertomorales.com)](https://gilbertomorales.com)
 [![](https://img.shields.io/badge/-@eumorales-%23181717?style=flat-square&logo=github)](https://github.com/eumorales)
 
